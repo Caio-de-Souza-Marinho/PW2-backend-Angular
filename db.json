@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular avançado",
+      "validade": "2021-01-31",
+      "precoProduto": 800.64
+    },
+    {
+      "nome": "Curso de .NET Core",
+      "validade": "2022-09-10",
+      "precoProduto": 120.45,
+      "id": 3
+    },
+    {
+      "nome": "Curso de Javascript Avançado COMPLETO 2023",
+      "validade": "2022-12-30",
+      "precoProduto": 510.61,
+      "id": 4
+    }
+  ]
+}
